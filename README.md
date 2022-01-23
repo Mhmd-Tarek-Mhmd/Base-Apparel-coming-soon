@@ -4,8 +4,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ## Links
 
-- Live Site [URL](https://mhmd-tarek-mhmd.github.io/Fylo-landing-page/)
-- Solution [URL](https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-cZ2T1wQl0)
+- Live Site [URL](https://mhmd-tarek-mhmd.github.io/Base-Apparel---coming-soon)
+- Solution [URL](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-9o78OnMpP)
 
 ## Screenshots
 
